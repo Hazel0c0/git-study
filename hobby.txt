@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaa
-=======
-점심 먹고싶어
->>>>>>> fix/food
+취미는 쿠키 만들기입니다
